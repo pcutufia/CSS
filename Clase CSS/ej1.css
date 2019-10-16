@@ -1,0 +1,78 @@
+
+    h1 {
+        color: teal;
+    }
+
+    strong {
+        color: red;
+    }
+
+    .destacado {
+        color: orange;
+    }
+
+    #subtitulo  {
+        color: blue;
+    }
+
+    a{
+        color: red;
+    }
+
+    a em {
+        color: blue;
+    }
+
+    span.especial {
+        color: blueviolet;
+
+    }
+
+    caption {
+        color: blue;
+    }
+
+    table, th, td { 
+        border:1px solid black;
+    border-collapse: collapse;}
+
+    th.especial  {
+        color: orange;
+    }
+
+    td {
+        color: green;
+    }
+
+    th {
+        color: red;
+    }
+
+    tbody tr td strong {
+        color: orange;
+    }
+
+    div p {
+        color: olive;
+        
+    }
+
+    #especial {
+        color: fuchsia;
+    }
+
+    div p a {
+        color: forestgreen;
+    }
+
+
+
+
+
+    
+
+       
+
+
+
+
